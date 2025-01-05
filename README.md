@@ -1,4 +1,3 @@
-
 # Hack
 
 [![GitHub release](https://img.shields.io/github/release/source-foundry/hack.svg?style=flat)](https://github.com/source-foundry/Hack/releases/latest)
